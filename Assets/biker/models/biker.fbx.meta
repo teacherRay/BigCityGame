@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 1aa24d0ce2142e74e9ea7030db864c45
+timeCreated: 1455058974
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_Rull
+    100002: Armature
+    100004: B_bone
+    100006: //RootNode
+    100008: Body
+    100010: Body_2
+    100012: Bone.002
+    100014: fin.L
+    100016: fin.R
+    100018: fingers.L
+    100020: fingers.L_end
+    100022: fingers.R
+    100024: fingers.R_end
+    100026: foot.L
+    100028: foot.L.001
+    100030: foot.L.001_end
+    100032: foot.L_end
+    100034: foot.R
+    100036: foot.R.001
+    100038: foot.R.001_end
+    100040: foot.R_end
+    100042: General
+    100044: H.L
+    100046: H.R
+    100048: hand.L
+    100050: hand.R
+    100052: hand_2.L
+    100054: hand_2.L_end
+    100056: hand_2.R
+    100058: hand_2.R_end
+    100060: head
+    100062: IK.L
+    100064: ik.L
+    100066: IK.L_end
+    100068: IK.R
+    100070: ik.R
+    100072: IK.R_end
+    100074: leg.L
+    100076: leg.R
+    100078: moto
+    100080: mouth
+    100082: mouth_end
+    100084: Mumu
+    100086: Mumu_moto.000
+    100088: Mumu_moto.001
+    100090: ring
+    100092: ring_end
+    100094: shin.L
+    100096: shin.R
+    100098: wheel_1
+    100100: wheel_1 1
+    100102: wheel_1_end
+    100104: wheel_2
+    100106: wheel_2 1
+    100108: wheel_2_end
+    100110: Rull
+    100112: w_1
+    100114: w_2
+    100116: rull
+    400000: Arm_Rull
+    400002: Armature
+    400004: B_bone
+    400006: //RootNode
+    400008: Body
+    400010: Body_2
+    400012: Bone.002
+    400014: fin.L
+    400016: fin.R
+    400018: fingers.L
+    400020: fingers.L_end
+    400022: fingers.R
+    400024: fingers.R_end
+    400026: foot.L
+    400028: foot.L.001
+    400030: foot.L.001_end
+    400032: foot.L_end
+    400034: foot.R
+    400036: foot.R.001
+    400038: foot.R.001_end
+    400040: foot.R_end
+    400042: General
+    400044: H.L
+    400046: H.R
+    400048: hand.L
+    400050: hand.R
+    400052: hand_2.L
+    400054: hand_2.L_end
+    400056: hand_2.R
+    400058: hand_2.R_end
+    400060: head
+    400062: IK.L
+    400064: ik.L
+    400066: IK.L_end
+    400068: IK.R
+    400070: ik.R
+    400072: IK.R_end
+    400074: leg.L
+    400076: leg.R
+    400078: moto
+    400080: mouth
+    400082: mouth_end
+    400084: Mumu
+    400086: Mumu_moto.000
+    400088: Mumu_moto.001
+    400090: ring
+    400092: ring_end
+    400094: shin.L
+    400096: shin.R
+    400098: wheel_1
+    400100: wheel_1 1
+    400102: wheel_1_end
+    400104: wheel_2
+    400106: wheel_2 1
+    400108: wheel_2_end
+    400110: Rull
+    400112: w_1
+    400114: w_2
+    400116: rull
+    2300000: wheel_1 1
+    2300002: wheel_2 1
+    2300004: wheel_1
+    3300000: wheel_1 1
+    3300002: wheel_2 1
+    3300004: wheel_1
+    4300000: wheel_1
+    4300002: wheel_2
+    4300004: Mumu_moto.001
+    4300006: Mumu
+    4300008: Mumu_moto.000
+    4300010: rull
+    7400000: Armature|Mumu_moto
+    7400002: Armature|Action
+    9500000: //RootNode
+    13700000: Mumu
+    13700002: Mumu_moto.000
+    13700004: Mumu_moto.001
+    13700006: wheel_1 1
+    13700008: wheel_2 1
+    13700010: rull
+    13700012: wheel_2
+    13700014: wheel_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
